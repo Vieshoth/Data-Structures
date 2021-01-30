@@ -14,7 +14,7 @@ int factors(int n){
         }
         x++;
     }
-    cout << "sum of factorrs are: " << sum <<endl;
+    cout << "sum of factors are: " << sum <<endl;
     return sum;
 }
 
